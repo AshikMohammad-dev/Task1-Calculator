@@ -1,11 +1,15 @@
 # Task1-Calculator
 
-A simple console-based calculator built in Java using switch.
+A simple Java console-based calculator using switch statements.
 
-# Features
+# What I Did
 
-1. Addition (+)
-2. Subtraction (-)
-3. Multiplication (*)
-4. Division (with zero check)
-5. Loop until exit
+Created methods for Addition, Subtraction, Multiplication, Division
+
+Used Scanner to take user input
+
+Implemented switch-case to choose operation
+
+Handled division by zero with error message
+
+Used a loop so program runs until user exits
